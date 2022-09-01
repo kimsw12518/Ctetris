@@ -1,5 +1,5 @@
 # Ctetris
-tetris made with C
+tetris with SRS,7-bag made with C
 kinda flawed but it works ;)
 
 A,D to move
